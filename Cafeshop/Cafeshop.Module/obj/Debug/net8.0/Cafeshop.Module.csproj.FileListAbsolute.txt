@@ -1,0 +1,12 @@
+D:\C#\Cafeshop\Cafeshop.Module\bin\Debug\net8.0\Cafeshop.Module.deps.json
+D:\C#\Cafeshop\Cafeshop.Module\bin\Debug\net8.0\Cafeshop.Module.dll
+D:\C#\Cafeshop\Cafeshop.Module\bin\Debug\net8.0\Cafeshop.Module.pdb
+D:\C#\Cafeshop\Cafeshop.Module\obj\Debug\net8.0\Cafeshop.Module.csproj.AssemblyReference.cache
+D:\C#\Cafeshop\Cafeshop.Module\obj\Debug\net8.0\Cafeshop.Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Cafeshop\Cafeshop.Module\obj\Debug\net8.0\Cafeshop.Module.AssemblyInfoInputs.cache
+D:\C#\Cafeshop\Cafeshop.Module\obj\Debug\net8.0\Cafeshop.Module.AssemblyInfo.cs
+D:\C#\Cafeshop\Cafeshop.Module\obj\Debug\net8.0\Cafeshop.Module.csproj.CoreCompileInputs.cache
+D:\C#\Cafeshop\Cafeshop.Module\obj\Debug\net8.0\Cafeshop.Module.dll
+D:\C#\Cafeshop\Cafeshop.Module\obj\Debug\net8.0\refint\Cafeshop.Module.dll
+D:\C#\Cafeshop\Cafeshop.Module\obj\Debug\net8.0\Cafeshop.Module.pdb
+D:\C#\Cafeshop\Cafeshop.Module\obj\Debug\net8.0\ref\Cafeshop.Module.dll
