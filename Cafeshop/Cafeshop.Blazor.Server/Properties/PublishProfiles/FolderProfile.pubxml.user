@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
-<Project>
-  <PropertyGroup>
-    <_PublishTargetUrl>D:\C#\Cafeshop\Cafeshop.Blazor.Server\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2025-11-03T11:42:59.9688599Z||;True|2025-11-03T18:39:49.8789001+07:00||;True|2025-10-20T16:14:01.1137810+07:00||;True|2025-10-16T15:54:15.5121277+07:00||;</History>
-    <LastFailureDetails />
-  </PropertyGroup>
-</Project>
